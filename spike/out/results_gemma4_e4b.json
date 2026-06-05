@@ -1,0 +1,346 @@
+{
+  "model": "gemma4:e4b",
+  "a1_run1": [
+    {
+      "file": "after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper.json",
+      "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
+      "source": "arstechnica",
+      "score": 0.6,
+      "topic": "Romfart/NASA",
+      "reason": "Artikkelen handler om et romfartsoppdrag (NASA/Mars) som har endt. Dette faller inn under 'Science and climate' (interessert) og er en stor, global nyhet, men den er ikke direkte knyttet til AI/teknologi eller Norge, så scoren er moderat.",
+      "secs": 7.0
+    },
+    {
+      "file": "att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data.json",
+      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+      "source": "arstechnica",
+      "score": 0.6,
+      "topic": "Tech/AI og regulering",
+      "reason": "Artikkelen om store teleselskaper (AT&T, Verizon) og regulering av lokasjonsdata er relevant for både teknologifokus og norsk/global reguleringsinteresse.",
+      "secs": 1.7
+    },
+    {
+      "file": "innvandring-ordførere-ber-om-flyttenekt.json",
+      "title": "Innvandring: Ordførere ber om flyttenekt",
+      "source": "nrk",
+      "score": 0.8,
+      "topic": "Lokalt politikk/Innvandring",
+      "reason": "Artikkelen er fra NRK og omhandler lokale politiske utfordringer (Sarpsborg/Fredrikstad) knyttet til innvandring, noe som matcher leserens sterke interesse for Norge og Oslo-området.",
+      "secs": 2.1
+    },
+    {
+      "file": "isolerer-suicidale-barn-i-fengsel-svært-urovekkende.json",
+      "title": "Isolerer suicidale barn i fengsel: «Svært urovekkende»",
+      "source": "nrk",
+      "score": 0.8,
+      "topic": "Ungdomsfengsel og mental helse",
+      "reason": "Artikkelen om barn i fengsel og selvmordsfare er relevant for norsk samfunnsinteresse og berører et viktig tema innen helse og rettsvesen, noe som samsvarer med leserens interesse for Norge og samfunnsnyheter.",
+      "secs": 2.2
+    },
+    {
+      "file": "kronprinsesse-mette-marit-trenger-nye-lunger-sykdommen-er-blitt-livstruende.json",
+      "title": "Kronprinsesse Mette-Marit trenger nye lunger – sykdommen er blitt livstruende",
+      "source": "nrk",
+      "score": 0.6,
+      "topic": "Kongelig helse/Norsk nyhet",
+      "reason": "Artikkelen er fra NRK og handler om et viktig norsk tema (kongelig familie/helse), noe som er høyt prioritert. Imidlertid er emnet (alvorlig sykdom) kanskje mindre interessant enn teknologi eller et stort politisk gjennombrudd, og derfor får den en litt lavere score.",
+      "secs": 2.5
+    },
+    {
+      "file": "mangrove-forests-are-healing-after-decades-of-human-destruction.json",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "source": "bbc",
+      "score": 0.6,
+      "topic": "Mangrover og miljøgjenoppretting",
+      "reason": "Emnet (mangrover) er miljørelatert og har en viss relevans for 'Science and climate', men det er et globalt tema uten direkte kobling til Norge eller teknologi/AI. Det er likevel et godt, interessant bidrag for en personlig avis.",
+      "secs": 2.1
+    },
+    {
+      "file": "skjebnedøgn-for-milliardsatsing-på-havvind-totalt-uansvarlig.json",
+      "title": "Skjebnedøgn for milliardsatsing på havvind: – Totalt uansvarlig",
+      "source": "nrk",
+      "score": 0.75,
+      "topic": "Norsk energi/havvind-politikk",
+      "reason": "Artikkelen om havvind-satsingen og politisk debatt er svært relevant da den kombinerer norsk politikk (NRK, Stortinget, partier) med et stort tema innen energi/klima (havvind). Dette treffer både 'Norway and Oslo' og 'Science and climate' interessene.",
+      "secs": 2.5
+    },
+    {
+      "file": "the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet.json",
+      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+      "source": "arstechnica",
+      "score": 0.85,
+      "topic": "Humanoid robotikk og forventningsgapet",
+      "reason": "Artikkelen om humanoidroboter og gapet mellom demonstrasjoner og virkelighetsbruk er svært relevant for leserens sterke interesse for teknologi og AI.",
+      "secs": 1.7
+    },
+    {
+      "file": "trump-plan-to-test-ai-models-has-a-problemus-security-teams-were-gutted-by-doge.json",
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "source": "arstechnica",
+      "score": 0.8,
+      "topic": "AI-regulering og teknologi",
+      "reason": "Artikkelen handler om AI-regulering og politikk (Trump/USA), som er et tema med høy relevans for leserens interesse for teknologi og AI, samt verdenspolitikk.",
+      "secs": 1.8
+    },
+    {
+      "file": "voidzero-is-joining-cloudflare.json",
+      "title": "VoidZero Is Joining Cloudflare",
+      "source": "hackernews",
+      "score": 0.9,
+      "topic": "Teknologi/AI (VoidZero til Cloudflare)",
+      "reason": "Artikkelen om VoidZero som slutter seg til Cloudflare er svært relevant da den omhandler utviklerverktøy (Vite, Vitest, etc.) og store teknologiselskaper, noe som matcher leserens sterke interesse for teknologi og AI.",
+      "secs": 2.1
+    },
+    {
+      "file": "we-need-to-stop-ai-developing-without-humans-says-anthropic-co-founder.json",
+      "title": "We need to stop AI developing without humans, says Anthropic co-founder",
+      "source": "bbc",
+      "score": 0.9,
+      "topic": "AI-regulering og sikkerhet",
+      "reason": "Artikkelen om AI-utvikling og behovet for regulering treffer direkte i leserens sterke interesse for teknologi/AI og er relevant for politikk/samfunn.",
+      "secs": 1.8
+    },
+    {
+      "file": "when-ai-builds-itself-our-progress-toward-recursive-self-improvement.json",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "source": "hackernews",
+      "score": 0.9,
+      "topic": "AI selvforbedring og utvikling",
+      "reason": "Artikkelen om rekursiv selvforbedring i AI er svært relevant, da leseren er 'veldig interessert' i teknologi og AI/ML, og kilden (Hacker News) er en primær kilde.",
+      "secs": 1.9
+    },
+    {
+      "file": "world-first-vaccine-designed-by-ai-could-protect-against-whole-families-of-virus.json",
+      "title": "World-first vaccine designed by AI could protect against whole families of viruses",
+      "source": "bbc",
+      "score": 0.85,
+      "topic": "AI-utviklet vaksine mot flere virus",
+      "reason": "Høy relevans. Artikkelen kombinerer AI (veldig interessert) med helse/vitenskap (interessert), og er fra en pålitelig kilde (BBC). Dette er et godt emne for en lederevison.",
+      "secs": 2.1
+    },
+    {
+      "file": "zelensky-proposes-face-to-face-talks-in-open-letter-to-putin.json",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "source": "bbc",
+      "score": 0.6,
+      "topic": "Ukraina/Russland fredsforhandlinger",
+      "reason": "Emnet er geopolitisk og politisk, men det handler om direkte konflikt og fredsforhandlinger, noe som gir en viss relevans. Det er ikke primært teknologi/AI eller Oslo-relatert, men det er en stor global nyhet.",
+      "secs": 2.1
+    }
+  ],
+  "a1_run2": [
+    {
+      "file": "after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper.json",
+      "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
+      "source": "arstechnica",
+      "score": 0.6,
+      "topic": "Romfart/Teknologi",
+      "reason": "Artikkelen handler om et teknologisk/vitenskapelig tap (MAVEN-romsonden) og er fra Ars Technica, som er en foretrukket kilde. Temaet (romfart/vitenskap) er også interessant for leseren.",
+      "secs": 2.1
+    },
+    {
+      "file": "att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data.json",
+      "title": "AT&T and Verizon lose Supreme Court case over fines for selling location data",
+      "source": "arstechnica",
+      "score": 0.6,
+      "topic": "Teknologi/Personvern (USA)",
+      "reason": "Emnet om datainnsamling og store teknologiselskaper er relevant, men det er et amerikansk juridisk tema, noe som reduserer relevansen for en norsk leser.",
+      "secs": 1.8
+    },
+    {
+      "file": "innvandring-ordførere-ber-om-flyttenekt.json",
+      "title": "Innvandring: Ordførere ber om flyttenekt",
+      "source": "nrk",
+      "score": 0.8,
+      "topic": "Lokalt politikk/Innvandring",
+      "reason": "Artikkelen er fra NRK og omhandler lokale politiske forhold (Sarpsborg/Fredrikstad) og innvandring, noe som matcher leserens interesse for Norge/Oslo og NRK-kilder.",
+      "secs": 2.1
+    },
+    {
+      "file": "isolerer-suicidale-barn-i-fengsel-svært-urovekkende.json",
+      "title": "Isolerer suicidale barn i fengsel: «Svært urovekkende»",
+      "source": "nrk",
+      "score": 0.7,
+      "topic": "Ungdomsfengsel og selvmordsfare",
+      "reason": "Artikkelen om barn i fengsel og selvmordsfare er relevant fordi den berører norsk samfunnsdebatt og offentlig sektor (Sivilombudet, fengsel), noe leseren er svært interessert i.",
+      "secs": 2.2
+    },
+    {
+      "file": "kronprinsesse-mette-marit-trenger-nye-lunger-sykdommen-er-blitt-livstruende.json",
+      "title": "Kronprinsesse Mette-Marit trenger nye lunger – sykdommen er blitt livstruende",
+      "source": "nrk",
+      "score": 0.5,
+      "topic": "Kongelig helse og livstruende sykdom",
+      "reason": "Emnet er norsk og lokalt (kongehuset/Oslo-relatert), noe som er interessant. Men det er et personlig helseproblem, som er mindre relevant enn teknologiske eller politiske saker i henhold til preferansene.",
+      "secs": 2.3
+    },
+    {
+      "file": "mangrove-forests-are-healing-after-decades-of-human-destruction.json",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "source": "bbc",
+      "score": 0.7,
+      "topic": "Miljø/Mangrover",
+      "reason": "Artikkelen om mangrove-skogenes gjenvekst er relevant for leserens interesse for miljø og klima, og er fra en pålitelig kilde (BBC). Den er en god, men ikke topp-prioritert, historie.",
+      "secs": 1.9
+    },
+    {
+      "file": "skjebnedøgn-for-milliardsatsing-på-havvind-totalt-uansvarlig.json",
+      "title": "Skjebnedøgn for milliardsatsing på havvind: – Totalt uansvarlig",
+      "source": "nrk",
+      "score": 0.85,
+      "topic": "Norsk energi- og havvindpolitikk",
+      "reason": "Artikkelen om havvind og statlig støtte er svært relevant da den berører norsk politikk (NRK-kilde) og energi/klima (tema), noe som er høyt prioritert i leserens profil.",
+      "secs": 2.2
+    },
+    {
+      "file": "the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet.json",
+      "title": "The skeptic’s guide to humanoid robots going viral on the Internet",
+      "source": "arstechnica",
+      "score": 0.85,
+      "topic": "Humanoid robotikk og virkelighetens gap",
+      "reason": "Artikkelen om humanoide roboter og gapet mellom demonstrasjoner og virkelig ytelse treffer direkte i leserens sterke interesse for teknologi og AI (spesielt robotikk/AI-demonstrasjoner). Kilden (Ars Technica) er også en foretrukket kilde for dyp teknisk analyse.",
+      "secs": 2.3
+    },
+    {
+      "file": "trump-plan-to-test-ai-models-has-a-problemus-security-teams-were-gutted-by-doge.json",
+      "title": "Trump plan to test AI models has a problem—US security teams were gutted by DOGE",
+      "source": "arstechnica",
+      "score": 0.8,
+      "topic": "AI-regulering og amerikansk politikk",
+      "reason": "Artikkelen om AI-testing og politikk er svært relevant, da leseren er veldig interessert i teknologi/AI og har en viss interesse for verdenspolitikk/policy.",
+      "secs": 1.8
+    },
+    {
+      "file": "voidzero-is-joining-cloudflare.json",
+      "title": "VoidZero Is Joining Cloudflare",
+      "source": "hackernews",
+      "score": 0.9,
+      "topic": "Teknologi/AI (VoidZero til Cloudflare)",
+      "reason": "Artikkelen om VoidZero som slutter seg til Cloudflare er svært relevant, da den faller direkte inn under leserens sterke interesse for teknologi, AI og store teknologiselskaper (Hacker News-kilde).",
+      "secs": 2.0
+    },
+    {
+      "file": "we-need-to-stop-ai-developing-without-humans-says-anthropic-co-founder.json",
+      "title": "We need to stop AI developing without humans, says Anthropic co-founder",
+      "source": "bbc",
+      "score": 0.9,
+      "topic": "AI-sikkerhet og regulering",
+      "reason": "Artikkelen om AI-utvikling og behovet for regulering er svært relevant, da leseren er 'veldig interessert' i teknologi og AI, og kilden (BBC) er en akseptert global nyhetskilde.",
+      "secs": 2.0
+    },
+    {
+      "file": "when-ai-builds-itself-our-progress-toward-recursive-self-improvement.json",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "source": "hackernews",
+      "score": 0.95,
+      "topic": "AI-utvikling og rekursiv selvforbedring",
+      "reason": "Artikkelen handler om AI-utvikling, spesifikt 'recursive self-improvement', som er et kjerneinteresseområde (Technology and AI) og kommer fra Hacker News, som er en primær kilde.",
+      "secs": 2.0
+    },
+    {
+      "file": "world-first-vaccine-designed-by-ai-could-protect-against-whole-families-of-virus.json",
+      "title": "World-first vaccine designed by AI could protect against whole families of viruses",
+      "source": "bbc",
+      "score": 0.8,
+      "topic": "AI-utviklet vaksine mot flere virus",
+      "reason": "Artikkelen om AI-utviklet vaksine er svært relevant da leseren er veldig interessert i teknologi og AI, og dette er et stort vitenskapelig gjennombrudd.",
+      "secs": 1.8
+    },
+    {
+      "file": "zelensky-proposes-face-to-face-talks-in-open-letter-to-putin.json",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "source": "bbc",
+      "score": 0.5,
+      "topic": "Ukraina/Russland konflikt og fredsforhandlinger",
+      "reason": "Emnet er geopolitikk og krig, noe du har begrenset interesse for. Men det er en viktig, aktuell internasjonal hendelse som kan fylle en plass i avisen, spesielt siden det berører store maktaktører.",
+      "secs": 2.1
+    }
+  ],
+  "a2": {
+    "lead": 10,
+    "majors": [
+      2,
+      11,
+      12
+    ],
+    "mids": [
+      3,
+      8,
+      9
+    ],
+    "briefs": [
+      1,
+      5,
+      6,
+      7,
+      13
+    ],
+    "reasoning": "Lead: Artikkel 10 (Anthropic) er den mest relevante og interessante historien, da den kombinerer AI-temaet med en viktig, global policy-diskusjon. Den er en sterk oversettelse av en BBC Newsnight-artikkel. Majors: Artikkel 2 (AI-utvikling) og 11 (Selvforbedrende AI) er sentrale, teknologiske temaer som passer perfekt i hovedseksjonen. Artikkel 12 (AI-vaksine) gir et positivt, vitenskapelig høydepunkt. Mids: Artikkel 3 (Sivilombudet/Isolasjon) er en viktig norsk sak. Artikkel 8 (Trump/AI-test) er en god, kritisk AI-vinkel. Artikkel 9 (VoidZero/Cloudflare) er en klassisk, høyt scoret tech-nyhet fra Hacker News. Briefs: De dekker et bredt spekter av emner (juridisk, miljø, energi, robotikk, geopolitikk) og balanserer kildene (BBC, Ars, NRK). Dette sikrer et bredt leserinteresser og oppfyller kravet om å dekke mange emner (14 artikler). NRK-artikler (2, 3, 6) er godt spredt, og det er en god blanding av norsk og internasjonal innhold."
+  },
+  "a2_secs": 8.78131454193499,
+  "b": [
+    {
+      "role": "lead",
+      "file": "world-first-vaccine-designed-by-ai-could-protect-against-whole-families-of-virus.json",
+      "title": "World-first vaccine designed by AI could protect against whole families of viruses",
+      "source": "bbc",
+      "json": {
+        "kicker": "Medisin og fremtid",
+        "deck": "AI-designet «super-antigen» kan revolusjonere vaksinasjon og beskytte mot hele virusfamilier, og representerer et paradigmeskifte i pandemi-forberedelser.",
+        "paragraphs": [
+          "Forskere ved Cambridge Universitet har lansert et gjennombrudd som kan endre måten vi forbereder oss på pandemier. Ved å bruke kunstig intelligens (AI) har de utviklet en «super-antigen»-vaksine som er designet for å beskytte mot store grupper av virus, inkludert alle koronavirus og potensielt nye patogener som kan hoppe fra dyr til mennesker. Dette er første gang i verden at en vaksines nøkkelkomponent er designet fullstendig av AI og testet på mennesker. Fremgangen signaliserer en fundamental endring i hvordan vi tenker rundt viral beskyttelse, og åpner for å forutse og nøytralisere trusler før de oppstår.",
+          "Tradisjonelt sett må vaksiner designes basert på en kjent virusstamme, noe som krever konstant oppdatering ettersom virus muterer. Cambridge-teamet omgår denne utfordringen ved å mate AI med genetiske koder fra et bredt spekter av koronavirus. AI-en analyserer deretter disse kodene og konstruerer et «super-antigen» som er ment å trene immunsystemet til å gjenkjenne hele virusfamilien. Dette betyr at vaksinen ikke bare beskytter mot dagens utbrudd, men gir bred, varig immunitet mot en hel gruppe virus, uavhengig av om de muterer eller kommer fra et annet dyrereservoar.",
+          "Denne teknologien har allerede vist lovende resultater i tidlige kliniske studier, og forskerne utvider nå forskningen til å inkludere vaksineutvikling mot influensa, Ebola og andre virale blødninger. Eksperter kaller AI-designet for et «gjennombrudd» (game changer) for medisinsk forskning. Ifølge forskerne kan AI-verktøy forutsi hvordan immunsystemet vil reagere på ulike vaksiner, noe som dramatisk fremskynder utviklingsprosessen og gir håp om å kunne forberede oss på fremtidige pandemier før de blir en trussel.",
+          "Mens de videre studiene skal bekrefte tryggheten og effekten, markerer dette arbeidet et avgjørende skritt mot en mer proaktiv helseberedskap. Det flytter fokus fra å reagere på utbrudd til å forutsi og forhindre dem. Dette representerer ikke bare et vitenskapelig fremskritt, men et skifte i global folkehelsepolitikk – et skritt mot en fremtid hvor vi har verktøy til å beskytte hele familier av virus, og dermed hele samfunnene."
+        ]
+      },
+      "raw": "{\"kicker\": \"Medisin og fremtid\", \"deck\": \"AI-designet «super-antigen» kan revolusjonere vaksinasjon og beskytte mot hele virusfamilier, og representerer et paradigmeskifte i pandemi-forberedelser.\", \"paragraphs\": [\"Forskere ved Cambridge Universitet har lansert et gjennombrudd som kan endre måten vi forbereder oss på pandemier. Ved å bruke kunstig intelligens (AI) har de utviklet en «super-antigen»-vaksine som er designet for å beskytte mot store grupper av virus, inkludert alle koronavirus og potensielt nye patogener som kan hoppe fra dyr til mennesker. Dette er første gang i verden at en vaksines nøkkelkomponent er designet fullstendig av AI og testet på mennesker. Fremgangen signaliserer en fundamental endring i hvordan vi tenker rundt viral beskyttelse, og åpner for å forutse og nøytralisere trusler før de oppstår.\", \"Tradisjonelt sett må vaksiner designes basert på en kjent virusstamme, noe som krever konstant oppdatering ettersom virus muterer. Cambridge-teamet omgår denne utfordringen ved å mate AI med genetiske koder fra et bredt spekter av koronavirus. AI-en analyserer deretter disse kodene og konstruerer et «super-antigen» som er ment å trene immunsystemet til å gjenkjenne hele virusfamilien. Dette betyr at vaksinen ikke bare beskytter mot dagens utbrudd, men gir bred, varig immunitet mot en hel gruppe virus, uavhengig av om de muterer eller kommer fra et annet dyrereservoar.\", \"Denne teknologien har allerede vist lovende resultater i tidlige kliniske studier, og forskerne utvider nå forskningen til å inkludere vaksineutvikling mot influensa, Ebola og andre virale blødninger. Eksperter kaller AI-designet for et «gjennombrudd» (game changer) for medisinsk forskning. Ifølge forskerne kan AI-verktøy forutsi hvordan immunsystemet vil reagere på ulike vaksiner, noe som dramatisk fremskynder utviklingsprosessen og gir håp om å kunne forberede oss på fremtidige pandemier før de blir en trussel.\", \"Mens de videre studiene skal bekrefte tryggheten og effekten, markerer dette arbeidet et avgjørende skritt mot en mer proaktiv helseberedskap. Det flytter fokus fra å reagere på utbrudd til å forutsi og forhindre dem. Dette representerer ikke bare et vitenskapelig fremskritt, men et skifte i global folkehelsepolitikk – et skritt mot en fremtid hvor vi har verktøy til å beskytte hele familier av virus, og dermed hele samfunnene.\"]}",
+      "secs": 13.8
+    },
+    {
+      "role": "lg",
+      "file": "when-ai-builds-itself-our-progress-toward-recursive-self-improvement.json",
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "source": "hackernews",
+      "json": {
+        "kicker": "Teknologi",
+        "deck": "Kunstig intelligens akselererer egen utvikling mot autonomi",
+        "paragraphs": [
+          "Ifølge Anthropic er utviklingen av AI i økende grad delegert til AI-systemer selv, en prosess kalt rekursiv selvforbedring. Dette betyr at AI i teorien kan designe og utvikle sin egen etterfølger. Denne trenden viser at AI allerede akselererer utviklingen av andre AI-systemer, og at teknologiene blir stadig mer kapable til å løse komplekse oppgaver.",
+          "Intern data fra Anthropic viser at utviklingen er betydelig: Siden 2021 har ingeniørene i snitt levert 8 ganger så mye kode per kvartal som de gjorde i perioden 2021–2025. Dette indikerer at AI nå ikke bare hjelper til med å skrive kode, men at det er i ferd med å ta over hele utviklingssyklusen, noe som både lover enorme fremskritt og øker risikoen for at mennesker mister kontrollen over systemene."
+        ]
+      },
+      "raw": "{\"kicker\": \"Teknologi\", \"deck\": \"Kunstig intelligens akselererer egen utvikling mot autonomi\", \"paragraphs\": [\"Ifølge Anthropic er utviklingen av AI i økende grad delegert til AI-systemer selv, en prosess kalt rekursiv selvforbedring. Dette betyr at AI i teorien kan designe og utvikle sin egen etterfølger. Denne trenden viser at AI allerede akselererer utviklingen av andre AI-systemer, og at teknologiene blir stadig mer kapable til å løse komplekse oppgaver.\", \"Intern data fra Anthropic viser at utviklingen er betydelig: Siden 2021 har ingeniørene i snitt levert 8 ganger så mye kode per kvartal som de gjorde i perioden 2021–2025. Dette indikerer at AI nå ikke bare hjelper til med å skrive kode, men at det er i ferd med å ta over hele utviklingssyklusen, noe som både lover enorme fremskritt og øker risikoen for at mennesker mister kontrollen over systemene.\"]}",
+      "secs": 15.3
+    },
+    {
+      "role": "md",
+      "file": "after-11-years-at-mars-nasas-maven-spacecraft-went-out-with-a-whisper.json",
+      "title": "After 11 years at Mars, NASA's MAVEN spacecraft went out with a whisper",
+      "source": "arstechnica",
+      "json": {
+        "kicker": "Mars-ekspedisjonen mister en nøkkel: MAVEN-sonden er ute av spill",
+        "paragraphs": [
+          "NASA’s MAVEN-sond, som hadde vært i perfekt stand, forsvant bak Mars 6. desember i fjor. Det rutinemessige passasjen, kalt en okkultasjon, skulle vare i under en time, men bakkenkontrollteamene fikk ingen kontakt med sondens forventede gjenkomst. Tapet av kommunikasjonen utløste beredskapsplaner for ingeniører som forsøkte å gjenopprette forbindelsen til MAVEN, som kretser mer enn 200 millioner mil fra Jorden. Til ingen nytte lyttet de etter svake signaler og sendte kommandoer i blinde. Håpene om å redde oppdraget falmet, og NASA kunngjorde onsdag at de gir opp.",
+          "MAVEN var en ubestridt suksess, og overlevde 11 år ved Mars, langt utover sitt opprinnelige primæroppdrag. Den plutselige feilen var et overraskelse. Selv om forskerne fortsatt jobber med å avdekke hva som skjedde med Mars Atmosphere and Volatile Evolution (MAVEN), er det usikkert om man noensinne vil få et fullstendig bilde av hendelsen. Data fra før signalet ble blokkert, og fragmenter av telemetri ble gjenopprettet fra MAVEN etter at den kom ut fra planeten. Disse dataene indikerte at romfartøyet roterte raskere enn forventet, noe som tyder på et alvorlig problem som sannsynligvis ikke kunne rettes opp.",
+          "MAVEN var bygget for å hjelpe forskere med å forstå hvordan Mars’ atmosfære har endret seg over milliarder av år. Den oppdaget mekanismene bak det som kalles atmosfærisk flukt – prosessen der molekyler strippes ut fra de øvre atmosfærelagene. Dette var et banebrytende funn som ga oss en dypere forståelse av planetens historie. Fra et vitenskapelig ståsted er MAVENs ettermæle sikret, men for teamene bak prosjektet er avskjeden vanskelig.",
+          "Et annet viktig bidrag var at MAVEN fungerte som en kritisk reléstasjon for vitenskapelige data fra NASAs rovere og landere på Mars’ overflate. Dette gjorde det mulig for NASA å returnere betydelig mer data og bilder fra rovere som Perseverance og Curiosity enn det som hadde vært mulig via en direkte radioforbindelse til Jorden. Selv om NASA har fire andre baneplan som kan erstatte denne funksjonen, er de eldre enn MAVEN, og MAVEN spilte en uforholdsmessig viktig rolle i nettverket. NASA planlegger nå å utvikle et nytt kommersielt system, Mars Telecommunications Network, som skal gi høyere gjennomstrømning og bredere dekning for fremtidige oppdrag til den røde planeten. Dette understreker både MAVENs betydning og behovet for en robust fremtidig infrastruktur."
+        ]
+      },
+      "raw": "{\"kicker\": \"Mars-ekspedisjonen mister en nøkkel: MAVEN-sonden er ute av spill\", \"paragraphs\": [\"NASA’s MAVEN-sond, som hadde vært i perfekt stand, forsvant bak Mars 6. desember i fjor. Det rutinemessige passasjen, kalt en okkultasjon, skulle vare i under en time, men bakkenkontrollteamene fikk ingen kontakt med sondens forventede gjenkomst. Tapet av kommunikasjonen utløste beredskapsplaner for ingeniører som forsøkte å gjenopprette forbindelsen til MAVEN, som kretser mer enn 200 millioner mil fra Jorden. Til ingen nytte lyttet de etter svake signaler og sendte kommandoer i blinde. Håpene om å redde oppdraget falmet, og NASA kunngjorde onsdag at de gir opp.\", \"MAVEN var en ubestridt suksess, og overlevde 11 år ved Mars, langt utover sitt opprinnelige primæroppdrag. Den plutselige feilen var et overraskelse. Selv om forskerne fortsatt jobber med å avdekke hva som skjedde med Mars Atmosphere and Volatile Evolution (MAVEN), er det usikkert om man noensinne vil få et fullstendig bilde av hendelsen. Data fra før signalet ble blokkert, og fragmenter av telemetri ble gjenopprettet fra MAVEN etter at den kom ut fra planeten. Disse dataene indikerte at romfartøyet roterte raskere enn forventet, noe som tyder på et alvorlig problem som sannsynligvis ikke kunne rettes opp.\", \"MAVEN var bygget for å hjelpe forskere med å forstå hvordan Mars’ atmosfære har endret seg over milliarder av år. Den oppdaget mekanismene bak det som kalles atmosfærisk flukt – prosessen der molekyler strippes ut fra de øvre atmosfærelagene. Dette var et banebrytende funn som ga oss en dypere forståelse av planetens historie. Fra et vitenskapelig ståsted er MAVENs ettermæle sikret, men for teamene bak prosjektet er avskjeden vanskelig.\", \"Et annet viktig bidrag var at MAVEN fungerte som en kritisk reléstasjon for vitenskapelige data fra NASAs rovere og landere på Mars’ overflate. Dette gjorde det mulig for NASA å returnere betydelig mer data og bilder fra rovere som Perseverance og Curiosity enn det som hadde vært mulig via en direkte radioforbindelse til Jorden. Selv om NASA har fire andre baneplan som kan erstatte denne funksjonen, er de eldre enn MAVEN, og MAVEN spilte en uforholdsmessig viktig rolle i nettverket. NASA planlegger nå å utvikle et nytt kommersielt system, Mars Telecommunications Network, som skal gi høyere gjennomstrømning og bredere dekning for fremtidige oppdrag til den røde planeten. Dette understreker både MAVENs betydning og behovet for en robust fremtidig infrastruktur.\"]}",
+      "secs": 16.0
+    },
+    {
+      "role": "brief",
+      "file": "isolerer-suicidale-barn-i-fengsel-svært-urovekkende.json",
+      "title": "Isolerer suicidale barn i fengsel: «Svært urovekkende»",
+      "source": "nrk",
+      "json": {
+        "bold": "Sivilombudet/Kriminalomsorgen",
+        "text": "Isolasjon i sikkerhetsceller for unge er kritikkverdig og skadelig for barn."
+      },
+      "raw": "{\"bold\":\"Sivilombudet/Kriminalomsorgen\",\"text\":\"Isolasjon i sikkerhetsceller for unge er kritikkverdig og skadelig for barn.\"}",
+      "secs": 4.6
+    }
+  ]
+}
